@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\1\laba 3 3.c\laba 3 3.c\Source.c(24,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\laba 3 3.c\laba 3 3.c\Source.c(48): warning C4716: arry_input_check: должна возвращать значение
+D:\1\laba 3 3.c\laba 3 3.c\Source.c(81): warning C4716: func_arry_sum: должна возвращать значение
+  laba 3 3.c.vcxproj -> D:\1\laba 3 3.c\x64\Debug\laba 3 3.c.exe

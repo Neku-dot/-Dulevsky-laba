@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\1\laba 3 1.c\laba 3 1.c\Source.c(74,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba 3 1.c.vcxproj -> D:\1\laba 3 1.c\x64\Debug\laba 3 1.c.exe

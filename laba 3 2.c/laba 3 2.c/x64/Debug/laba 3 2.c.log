@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\1\laba 3 2.c\laba 3 2.c\Source.c(107,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\laba 3 2.c\laba 3 2.c\Source.c(102): warning C4716: even_delete: должна возвращать значение
+  laba 3 2.c.vcxproj -> D:\1\laba 3 2.c\x64\Debug\laba 3 2.c.exe
