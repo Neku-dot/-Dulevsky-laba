@@ -1,0 +1,17 @@
+﻿  Source.c
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(70,2): warning C4013: memmove: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(88,23): warning C4047: <: "int" отличается по уровням косвенного обращения от "int *"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(128,18): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(128,14): warning C4024: print_array: различные типы для формального и фактического параметров 1
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(133,18): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(133,14): warning C4024: print_array: различные типы для формального и фактического параметров 1
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(176,12): warning C4047: return: "int **" отличается по уровням косвенного обращения от "int"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(235,45): warning C4047: =: "int" отличается по уровням косвенного обращения от "int **"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(213,26): warning C4101: stop: неиспользованная локальная переменная
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(251,49): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int **"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(253,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(280,47): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int **"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(416,21): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int ***"
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(416,15): warning C4024: choice_task3: различные типы для формального и фактического параметров 1
+D:\1\laba 5.1.c\laba 5.1.c\Source.c(440,38): warning C4020: delete_row: слишком много фактических параметров
+  laba 5.1.c.vcxproj -> D:\1\laba 5.1.c\x64\Debug\laba 5.1.c.exe

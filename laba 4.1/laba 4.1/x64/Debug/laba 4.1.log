@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\1\laba 4.1\laba 4.1\Source.c(7,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\laba 4.1\laba 4.1\Source.c(93,13): warning C4013: find_max_elem: нет определения; предполагается "extern" с возвратом типа "int"
+  laba 4.1.vcxproj -> D:\1\laba 4.1\x64\Debug\laba 4.1.exe
