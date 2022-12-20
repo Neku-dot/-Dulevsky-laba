@@ -1,0 +1,13 @@
+﻿  lab6task1c.c
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(5,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(10,5): warning C4013: memory: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(11,5): warning C4013: choice: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(12,21): warning C4013: find_last_positive: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(13,18): warning C4013: counter_of_odd: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(15,5): warning C4013: array_print: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(16,5): warning C4013: memory_of_buff: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(17,5): warning C4013: array_in: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(18,5): warning C4013: arr_duplicate: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(19,5): warning C4013: sorts_time_count: нет определения; предполагается "extern" с возвратом типа "int"
+D:\1\lab6\task1lab6\task1lab6\lab6task1c.c(20,5): warning C4013: array_move_out: нет определения; предполагается "extern" с возвратом типа "int"
+  task1lab6.vcxproj -> D:\1\lab6\task1lab6\x64\Debug\task1lab6.exe
